@@ -1,73 +1,47 @@
-# Welcome to your Lovable project
+# 🎭 Risada de Verão — Landing Page para Show de Humor
 
-## Project info
+Landing page criada para promover um show fictício de humor com tema de férias de verão. O projeto destaca a experiência divertida, visual vibrante e foco em engajamento social, ideal para divulgação em redes como Instagram e eventos locais.
 
-**URL**: https://lovable.dev/projects/99f2361c-8c95-48cd-b54a-ad97a8be6385
+🔗 **Site publicado**: [risadadeverao.netlify.app](https://risadadeverao.netlify.app)
 
-## How can I edit this code?
+![Preview do site](https://raw.githubusercontent.com/SEU_USUARIO/risada-de-verao-landing/main/public/preview.png)
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## ✨ Funcionalidades
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/99f2361c-8c95-48cd-b54a-ad97a8be6385) and start prompting.
+- 🎉 Visual com tema tropical e vibrante
+- 📆 Datas de apresentações destacadas
+- 📱 Layout 100% responsivo e otimizado para redes sociais
+- 📸 Imagem de fundo tematizada (praia/verão/show)
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🛠️ Tecnologias Utilizadas
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- **Vite** + **React**
+- **TypeScript**
+- **Tailwind CSS**
+- **shadcn/ui** para componentes acessíveis e estilos elegantes
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 📂 Como executar localmente
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+```bash
+# Clone este repositório
+git clone https://github.com/SEU_USUARIO/risada-de-verao-landing.git
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Acesse a pasta do projeto
+cd risada-de-verao-landing
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Instale as dependências
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Inicie o servidor de desenvolvimento
 npm run dev
-```
 
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/99f2361c-8c95-48cd-b54a-ad97a8be6385) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+👩‍💻 Autoria
+Meirian Barbosa
+📧 meirian.codes@gmail.com
+🌐 Portfólio em construção
