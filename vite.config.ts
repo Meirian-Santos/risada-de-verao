@@ -20,3 +20,4 @@ export default defineConfig(({ mode }) => ({
     },
   },
 }));
+/* Personalização feita por Meirian Barbosa em 2025 */

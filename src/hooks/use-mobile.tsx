@@ -17,3 +17,6 @@ export function useIsMobile() {
 
   return !!isMobile
 }
+
+
+/* Personalização feita por Meirian Barbosa em 2025 */

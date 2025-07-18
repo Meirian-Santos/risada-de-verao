@@ -189,3 +189,5 @@ function useToast() {
 }
 
 export { useToast, toast }
+
+/* Personalização feita por Meirian Barbosa em 2025 */

@@ -16,5 +16,6 @@
     "ui": "@/components/ui",
     "lib": "@/lib",
     "hooks": "@/hooks"
-  }
+  },
+  "//info": "Personalização feita por Meirian Barbosa em 2025"
 }

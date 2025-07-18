@@ -1,3 +1,4 @@
+
 {
   "name": "vite_react_shadcn_ts",
   "private": true,
@@ -78,6 +79,7 @@
     "tailwindcss": "^3.4.11",
     "typescript": "^5.5.3",
     "typescript-eslint": "^8.0.1",
-    "vite": "^5.4.1"
-  }
+  "vite": "^5.4.1"
+  },
+  "//info": "Personalização feita por Meirian Barbosa em 2025"
 }

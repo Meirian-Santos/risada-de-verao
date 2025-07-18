@@ -2,9 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
-All colors MUST be HSL.
+/* Definição do sistema de design. Todas as cores, gradientes, fontes, etc. devem ser definidos aqui.
+   Todas as cores DEVEM estar em HSL.
 */
+
+/* Personalização feita por Meirian Barbosa em 2025 */
+
 
 @layer base {
   :root {
